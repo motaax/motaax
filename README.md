@@ -36,5 +36,3 @@
 <p>loading...</p>
 
 </div><br/>
-
-<p>Apaixonado por tecnologia e desenvolvimento de Sites e Apps!</p>
