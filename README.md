@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Bem-vindo! Eu sou o Felipe Mota
 
-<!--
-**motaax/motaax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente graduando em **Engenharia da Computação(UFC)**
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img title="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+  <img title="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;&nbsp;
+  <img title="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;
+  <img title="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;
+  <img title="Python" height="30" src="https://i.imgur.com/w6HYuAI.png">&nbsp;&nbsp;
+  <img title="C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;
+  <img title="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+
+---
+
+## Redes Sociais... 
+
+<br>
+
+<div style="display:inline_block">
+  <a href="https://www.instagram.com/motaax._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _blank"></a>
+  <a href="mailto:felipemota465@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-mota18/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+## Status do GitHub
+
