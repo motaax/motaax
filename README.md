@@ -22,4 +22,4 @@
   <a href="https://www.linkedin.com/in/felipe-mota18/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-[![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=motaax)](https://github.com/motaax/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motaax&layout=compact&theme=dark)](https://github.com/motaax/github-readme-stats)
