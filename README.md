@@ -1,6 +1,6 @@
-# 👋 Bem-vindo! Eu sou o Felipe Mota
+# 👋 Bem-vindo! Eu sou o Felipe
 
-🎓 Atualmente graduando em **Engenharia da Computação(UFC)**
+- Atualmente graduando em **Engenharia da Computação**(UFC)
 
 ## 💻 Tecnologias
 
@@ -15,11 +15,11 @@
 
 ## 🌐 Redes Sociais
 
-<br>
-
 <div style="display:inline_block">
   <a href="https://www.instagram.com/motaax._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _blank"></a>
   <a href="https://www.linkedin.com/in/felipe-mota18/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motaax&layout=compact)
